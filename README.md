@@ -1,5 +1,5 @@
-This readme file is mandatory in projects
-This is a zero day task with a zero day repository where a zero directory is created.
-Git is initialized and added to the remote origin
-q
-[A[D[qq
+This is a readme file and is mandatory in projects.
+A repo is created on Github GUI on the website, while a directory is created oon my computer with same name as the repo.
+
+Change directory to the one created, git init and add remote origin.
+Add file to git, commit change and push to remote server.
